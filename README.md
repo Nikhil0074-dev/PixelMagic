@@ -1,7 +1,7 @@
 #  PixelMagic - AI Magic Image Editor
 
 A fully self-contained single-page HTML app for an AI-powered photo editing product. No build tools, no dependencies, no server required - just open `PixelMagic.html` in any modern browser.
-
+![Screenshot](Screenshot.jpeg)
 ---
 
 ##  Project Structure
